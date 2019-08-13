@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.rwbuild.android.dev.guhemba.android",
+    "sha256_cert_fingerprints":
+    ["F4:87:57:06:07:D7:6F:42:15:5A:A8:27:42:60:75:D9:0E:44:91:E4:91:93:00:0A:35:61:1C:69:1C:92:2E:AC"]
+  }
+}]
